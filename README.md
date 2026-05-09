@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" 
+<img src="https://github.com/Madhu2150/ShaaleVikas/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" 
      alt="Shaale-Vikas Logo" width="120" height="120" 
      style="border-radius: 20px"/>
 
