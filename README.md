@@ -320,7 +320,6 @@ to deal in the Software without restriction.
 
 <div align="center">
 
-**Made with ❤️ for Rural Schools of Karnataka**
 
 ⭐ Star this repo if you found it helpful!
 
