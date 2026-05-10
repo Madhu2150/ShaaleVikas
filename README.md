@@ -292,7 +292,7 @@ Run → Run 'app'
 
 <div align="center">
 
-**Madhu**
+**Madhu L**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Madhu2150-black?logo=github)](https://github.com/Madhu2150)
 
