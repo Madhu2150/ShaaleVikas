@@ -20,8 +20,7 @@ through transparent, accountable, and measurable action.**
 
 [⬇️ Download APK](#-download) • 
 [📱 Features](#-features) • 
-[🛠 Tech Stack](#-tech-stack) • 
-[📸 Screenshots](#-screenshots) • 
+[🛠 Tech Stack](#-tech-stack) •  
 [🚀 Setup](#-setup-guide)
 
 </div>
